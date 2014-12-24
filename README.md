@@ -1,4 +1,4 @@
-
+```bash
 
 ➜ PM2-coffee-test git:(master) ✗ pm2 --version
 0.12.1
@@ -176,3 +176,4 @@ server-2 (err):     at Function.Module._load (module.js:312:12)
 server-2 (err):     at Function.Module.runMain (module.js:497:10)
 server-2 (err):     at startup (node.js:119:16)
 server-2 (err):     at node.js:906:3
+```
